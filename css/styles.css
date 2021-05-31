@@ -136,6 +136,7 @@ a:hover{
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
+  animation: escala 5s ease-in-out infinite;
 }
 .float:hover {
 	text-decoration: none;
